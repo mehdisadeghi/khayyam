@@ -1,5 +1,5 @@
 # khayyam [![npm version](https://badge.fury.io/js/khayyamjs.svg)](https://badge.fury.io/js/khayyamjs)
-106 Omar Khayyam quatrains in yaml format to be consumed in scripts.
+106 Omar Khayyam quatrains in YAML format.
 
 # Install
 
